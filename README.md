@@ -1,5 +1,5 @@
-Generative AI      ───►   Microsoft Excel     ───►     Power BI
-(Raw Messy Data)          (Data Preprocess)           (Data Viz & DAX)
+Generative AI   (Raw Messy Data)    ───►     Microsoft Excel    (Data Preprocess)    ───►     Power BI  (Data Viz & DAX)
+
 
 
 

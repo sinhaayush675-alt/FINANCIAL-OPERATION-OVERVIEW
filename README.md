@@ -1,7 +1,9 @@
-┌─────────────────┐      ┌─────────────────┐      ┌──────────────────┐
-│  Generative AI  │ ───► │ Microsoft Excel │ ───► │     Power BI     │
-│ (Raw Messy Data)│      │(Data Preprocessing)    │ (Data Viz & DAX) │
-└─────────────────┘      └─────────────────┘      └──────────────────┘
+
+
+┌─────────────────┐        ┌─────────────────┐        ┌──────────────────┐
+│  Generative AI  │ ───►   │ Microsoft Excel │      ───►     Power BI 
+│ (Raw Messy Data)│        │(Data Preprocessing)      │ (Data Viz & DAX) │
+└─────────────────┘        └─────────────────┘        └──────────────────┘
 
 ## 🛠️ Project Overview
 
